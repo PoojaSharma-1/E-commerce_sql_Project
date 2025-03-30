@@ -184,6 +184,7 @@ GROUP BY Month
 ORDER BY Month;
 ```
 
+
 ## 📌 Conclusion
 This analysis helps businesses optimize inventory, enhance customer retention, and boost revenue. If you find this useful, feel free to contribute or raise issues!
 
